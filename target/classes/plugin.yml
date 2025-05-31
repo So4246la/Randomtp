@@ -1,0 +1,8 @@
+name: RandomTPPlugin
+main: com.example.randomtp.RandomTPPlugin
+version: 1.0
+api-version: 1.21
+commands:
+  randomtp:
+    description: ワールドボーダー内のランダムな場所にテレポートします。
+    usage: /randomtp
